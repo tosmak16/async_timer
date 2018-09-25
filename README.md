@@ -1,8 +1,8 @@
 # async_timer
-A simple timer that briefly showcases the power of asynchronous programing in python
+A simple timer that briefly showcases asynchronous programing in python using asyncio
 
 
-# To run the application
+## To run the application
 
 - Create a virtual environment.
 - Install python 3.4 or higher.
